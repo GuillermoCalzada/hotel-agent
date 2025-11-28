@@ -6,3 +6,7 @@ Agente conversacional inteligente para recuperar requests perdidos mediante opti
 **Stack:** Python + Streamlit + Pandas + Plotly
 
 ## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app_hoteldo.py
